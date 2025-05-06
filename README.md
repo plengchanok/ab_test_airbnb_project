@@ -15,9 +15,9 @@ We designed a controlled A/B survey experiment to measure how price signals (in 
 ## 📁 Project Structure
 
 ab_test_airbnb_project
-─ airbnb_v1_5_explore.ipynb # Main Jupyter Notebook for data cleaning and analysis
-─ Team 4 Submission.pdf # Project report detailing methodology, results, and recommendations
-─ README.md # Project documentation
+- airbnb_v1_5_explore.ipynb # Main Jupyter Notebook for data cleaning and analysis
+- Team 4 Submission.pdf # Project report detailing methodology, results, and recommendations
+- README.md # Project documentation
 
 ---
 
